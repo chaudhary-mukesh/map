@@ -366,5 +366,259 @@ const projectCards = {
     location: 'Poole, Dorset',
     value: '£147,000'
   },
+    southampton:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/commercial-apartments_gallery-1.jpg',
+    title: 'Commercial Apartments Southampton',
+    location: 'Southampton',
+    date: 'May 2020-Ongoing',
+    value: '£850,000'
+  },
+     suttonScotney1:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/3_private-housing_thumb_386.jpg',
+    title: 'Multiple Unit sites 10+, 19 Private Houses, Sutton Scotney',
+    location: 'Sutton Scotney, Hampshire',
+    date: 'March 2020',
+    value: '£262,000'
+  },
+     suttonScotney2:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/private-apartments_thumb-front_386.jpg',
+    title: 'Private Apartments, Sutton Scotney',
+    location: 'Sutton Scotney, Hampshire',
+    date: 'March 2020',
+    value: '£77,000'
+  },
+       sherborneStJohn1:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/bespoke-one-off_gallery-3.jpg',
+    title: 'Private Bespoke One-Off Sherborne St John',
+    location: 'Sherborne St John, Hampshire',
+    date: 'November 2020',
+    value: '£31,000'
+  },
+        sherborneStJohn2:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing 6 Plots, Sherborne St John',
+    location: 'Sherborne St John, Hampshire',
+    date: 'October 2020',
+    value: '£149,000'
+  },
+    basingstoke:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing 3 Plots, Elderfield House, Basingstoke',
+    location: 'Basingstoke, Hampshire',
+    date: 'June 2020',
+    value: '£84,000'
+  },
+    aldershot:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing 9 Plots, St Joseph’s Rd, Aldershot',
+    location: 'Aldershot, Hampshire',
+    date: 'March 2013',
+    value: '£89,000'
+  },
+    odiham:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/6-TR.jpg',
+    title: 'Private Houses, 4 Plots, Odiham',
+    location: 'Odiham, Hampshire',
+    date: 'September 2017',
+    value: '£80,000'
+  },
+    hook1:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/4-TR.jpg',
+    title: 'Private Houses, 8 Plots, Hook',
+    location: 'Hook, northern Hampshire',
+    date: 'March 2018',
+    value: '£191,000'
+  },
+   hook2:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/general-project_trusses.jpg',
+    title: 'Private Houses. 8 Plots, Hook',
+    location: 'Hook, northern Hampshire',
+    date: 'July 2020',
+    value: '£195,000'
+  },
+  hartleyWintney:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/general-project_trusses.jpg',
+    title: 'Private Houses, 2 Plots, Hartley Wintney',
+    location: 'Hartley Wintney, Hampshire',
+    date: 'April 2016',
+    value: '£50,000'
+  },
+    fleet:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/general-project_trusses.jpg',
+    title: 'Private Houses, 4 Plots, Fleet',
+    location: 'Fleet, Hampshire',
+    date: 'October 2017',
+    value: '£95,000'
+  },
+    churchCrookham:{
+    bgColor: '#c63763',
+    header: 'FLOOR JOISTS',
+    imageUrl: 'img/general-project_joists.jpg',
+    title: 'Private Houses 7 Plots, Church Crookham',
+    location: 'Church Crookham, Hampshire',
+    date: 'August 2020',
+    value: '£185,000'
+  },
+    aldershot:{
+    bgColor: '#c63763',
+    header: 'FLOOR JOISTS',
+    imageUrl: 'img/4.-Aldershot-EJ.jpg',
+    title: 'Private Housing, 6 Plots, Aldershot',
+    location: 'Aldershot, Oxfordshire',
+    date: 'July 2019',
+    value: '£58,000'
+  },
+    newbury:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/5TF.jpg',
+    title: 'Private Housing 8 Plots, Votec Centre, Newbury',
+    location: 'Newbury',
+    date: 'March 2019',
+    value: '£191,000'
+  },
+    tatcham:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/private-housing_thumb-front_386.jpg',
+    title: 'Private Housing 7 plots, Bath Rd, Thatcham',
+    location: 'Tatcham, Berkshire',
+    date: 'September 2017',
+    value: '£195,000'
+  },
+   tilehurst:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing 7 Plots, Long Lane, Tilehurst',
+    location: 'Tilehurst, West Berkshire',
+    date: 'February 2019',
+    value: '£186,000'
+  },
+    reading1:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/Maynecol-Services_gallery-2.jpg',
+    title: 'Care Homes 90 Bed Care Home, Hillview, Reading',
+    location: 'Reading, Berkshire',
+    date: 'September 2009',
+    value: '£341,000'
+  },
+     reading2:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing 4 Plots, Reading',
+    location: 'Reading, Berkshire',
+    date: 'April 2019',
+    value: '£117,000'
+  },
+    bracknell1:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/general-project_timber-frames.jpg',
+    title: 'Private Housing, 7 Plots, Bracknell',
+    location: 'Bracknell, Berkshire',
+    date: 'October 2019',
+    value: '£170,000'
+  },
+    bracknell2:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/18TF.jpg',
+    title: 'Private Apartments, Bracknell',
+    location: 'Bracknell, Berkshire',
+    date: 'October 2018',
+    value: '£162,000'
+  },
+    maidenhead1:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/23TF-LINK.jpg',
+    title: 'Social Housing, 8 Terrace Houses, Church Crookham',
+    location: 'Maidenhead, Berkshire',
+    date: 'September 2019',
+    value: '£25,000'
+  },
+   maidenhead2:{
+    bgColor: '#402023',
+    header: 'TIMBER FRAMES',
+    imageUrl: 'img/22TF.jpg',
+    title: 'Private Apartments, Blocks A-C, Chapel Arches, Maidenhead',
+    location: 'Maidenhead, Berkshire',
+    date: 'March 2020',
+    value: '£190,000'
+  },
+  shinfield:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/general-project_trusses.jpg',
+    title: 'Extension to main house, Shinfield',
+    location: 'Shinfield, Berkshire',
+    date: 'May 2019',
+    value: '£12,000'
+  },
+  wokingham:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/3-TR.jpg',
+    title: 'Private Houses, 2 plots, Wokingham',
+    location: 'Wokingham, Berkshire',
+    date: 'February 2018',
+    value: '£37,000'
+  },
+  sandhurst:{
+    bgColor: '#8A1537',
+    header: 'ROOF TRUSSES',
+    imageUrl: 'img/17.-TR.jpg',
+    title: 'Bespoke one off House, Sandhurst',
+    location: 'Sandhurst, Berkshire',
+    date: 'June 2010',
+    value: '£22,000'
+  },
+  maidenhead3:{
+    bgColor: '#c63763',
+    header: 'FLOOR JOISTS',
+    imageUrl: 'img/8.-Maidenhead-EJ.jpg',
+    title: 'Private Housing, 2 Blocks Apartments, Maidenhead',
+    location: 'Maidenhead, Berkshire',
+    date: 'December 2018',
+    value: '£41,000'
+  },
+    boughton:{
+    bgColor: '#c63763',
+    header: 'FLOOR JOISTS',
+    imageUrl: 'img/2.EJ_.jpg',
+    title: 'Multiple 10+ Housing site, 30 Plots, Boughton, Northampton',
+    location: 'Boughton, Northampton',
+    date: 'October 2019',
+    value: '£106,000'
+  },
 };
+
+
 
